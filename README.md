@@ -1,7 +1,6 @@
-# learning
-  learning programming languages:
+  This repository contains works in languages:
     1. python
-    2. java
-    3. java_script
-    4. mysql
-    5. scala
+    2. java_script
+    3. HTML5
+    4. CSS
+    5. mysql
