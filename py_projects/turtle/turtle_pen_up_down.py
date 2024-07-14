@@ -1,0 +1,26 @@
+import turtle
+
+wn = turtle.Screen()
+
+turtle.pencolor('red')
+turtle.forward(50)
+turtle.penup()
+turtle.forward(25)
+turtle.pendown()
+turtle.pensize(5)
+turtle.pencolor('green')
+turtle.forward(50)
+turtle.penup()
+turtle.forward(25)
+turtle.pendown()
+turtle.pensize(7)
+turtle.pencolor('orange')
+turtle.forward(50)
+turtle.penup()
+turtle.forward(25)
+turtle.pendown()
+turtle.pensize(10)
+turtle.pencolor('pink')
+turtle.forward(50)
+
+wn.mainloop()
